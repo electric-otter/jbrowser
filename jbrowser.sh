@@ -21,13 +21,8 @@ glitch() {
 
 clear
 echo "Initializing JBrowser glitch effect..."
-sleep 1
+glitch
 
-for i in {1..20}; do
-  glitch
-done
-
-echo -e "\nGlitch effect done!"
 echo "LOL UR PRANKD"
 echo "this wasnt really a browser, also u seem ready for dark mode!"
 sleep 20
